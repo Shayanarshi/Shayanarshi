@@ -2,13 +2,13 @@
 
 ### Java Full Stack Developer | Spring Boot | Microservices | React.js
 
-B.Tech Computer Science & Engineering graduate (2025), focused on Java backend and full-stack development. Building database-driven applications and REST APIs using Spring Boot, SQL, and React.js.
+B.Tech Computer Science & Engineering graduate (2025), focused on Java backend and full-stack development. I build database-driven applications and REST APIs using Spring Boot, SQL, and React.js.
 
-- 🔭 Building applications using Java, Spring Boot, and React.js
-- 🌱 Learning and implementing Spring Boot Microservices, service discovery, and API Gateway
+- 🔭 Building applications with Java, Spring Boot, and React.js
+- 🌱 Learning and implementing Spring Boot Microservices
 - 🔐 Exploring Spring Security and JWT authentication
 - 💻 Practicing data structures, algorithms, and problem-solving
-- 🎯 Interested in building scalable, maintainable web applications
+- 🎯 Interested in scalable, maintainable web applications
 
 ### 🛠️ Tech Stack
 
@@ -24,10 +24,11 @@ B.Tech Computer Science & Engineering graduate (2025), focused on Java backend a
 
 ### 🚀 Featured Projects
 
-- **[Customer–Friend Plan Management System](https://github.com/Shayanarshi)** — Microservices project using Spring Boot, Eureka Server, and API Gateway. *(Replace this profile link with the actual repository URL.)*
-- **[Employee Management System](https://github.com/Shayanarshi/SpringBoot-MVC-Thymeleaf-CRUD)** — Spring Boot application with Spring MVC, Spring Data JPA, MySQL, Thymeleaf, and CRUD operations.
-- **[Mainline E-Commerce Platform](https://github.com/Shayanarshi/Mainline-E-Commerce-Platform)** — Responsive e-commerce application built using React.js, Vite, and Tailwind CSS.
+- **[Customer–Friend Plan Microservices](https://github.com/Shayanarshi)** — Spring Boot microservices with Eureka Server and API Gateway. *(Replace with the exact repository link.)*
+- **[Employee Management System](https://github.com/Shayanarshi/SpringBoot-MVC-Thymeleaf-CRUD)** — Spring Boot, Spring MVC, Spring Data JPA, MySQL, Thymeleaf, and CRUD operations.
+- **[Mainline E-Commerce Platform](https://github.com/Shayanarshi/Mainline-E-Commerce-Platform)** — Responsive e-commerce application built with React.js, Vite, and Tailwind CSS.
 - **[Spring MVC Validation Demo](https://github.com/Shayanarshi/sb-mvc-validation-demo)** — User registration and server-side validation using Jakarta Bean Validation.
+- **[Lecture Tracker](https://github.com/Shayanarshi/lecture-tracker)** — Responsive React application for tracking course lectures.
 
 ### 🎓 Training & Certifications
 
