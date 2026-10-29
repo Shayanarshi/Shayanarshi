@@ -26,7 +26,7 @@ B.Tech Computer Science & Engineering graduate (2025), focused on Java backend a
 
 - **[Customer–Friend Plan Microservices](https://github.com/Shayanarshi/CustomerApp)** — Spring Boot microservices with Eureka Server and API Gateway.
 - **[Employee Management System](https://github.com/Shayanarshi/SpringBoot-MVC-Thymeleaf-CRUD)** — Spring Boot, Spring MVC, Spring Data JPA, MySQL, Thymeleaf, and CRUD operations.
-- **[Mainline E-Commerce Platform](https://github.com/Shayanarshi/Mainline-E-Commerce-Platform)** — Responsive e-commerce application built with React.js, Vite, and Tailwind CSS.
+- **[Mainline E-Commerce Platform](https://mainline-e-commerce-platform.vercel.app/)** — Responsive e-commerce application built with React.js, Vite, and Tailwind CSS.
 - **[Spring MVC Validation Demo](https://github.com/Shayanarshi/sb-mvc-validation-demo)** — User registration and server-side validation using Jakarta Bean Validation.
 - **[Lecture Tracker](https://github.com/Shayanarshi/lecture-tracker)** — Responsive React application for tracking course lectures.
 
